@@ -1,15 +1,4 @@
-前情回顾
 
-1. pymysql 使用
-
-    connect()
-    curcon()
-    execute()  executemany()
-    fetchall() fetchmany() fetchone()
-    commint()
-    rollback()
-
-    文件存储
 
 2. 网络学习
 

@@ -2,7 +2,7 @@ from socket import *
 
 # 创建tcp套接字
 s = socket()
-s.bind(('0.0.0.0',8000))
+s.bind(('0.0.0.0',9999))
 s.listen(5)
 
 c,addr = s.accept()  # 浏览器作为客户端会链接我
