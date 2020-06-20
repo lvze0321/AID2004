@@ -1,7 +1,3 @@
-"""
-练习： 通过http方法，让浏览器访问到 python.html这个网页
-"""
-
 from socket import *
 
 # 创建tcp套接字
